@@ -4,6 +4,7 @@
 _You can place some of your data viz examples from the course here.  Make sure to include any citations / references / data sources used, and it's probably a good idea to explain what these visualizations show._
 
 <img src="oecd-global-govt-debt.png" width="600"/>
+
 Source: https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2020
 
 * * *
