@@ -31,9 +31,17 @@ Within my final project, I aim to show how exactly particular levels and kinds o
 ![Story Arc](story-arc.jpg)
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+![Noise types](noise-types.jpg)
+
+***
+
+Chart 1: Certain ocupation leads to early hearing loss
+
+Chart 2: We lose our hearing faster than our grand parents
+
+![Hearing loss stats](hearing-loss.jpg)
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
