@@ -4,13 +4,30 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+Sound is an essential part of the physical world we exist in, and its impact on our lives extends far beyound liking or disliking some sounds aesthetically. Sound can both heal and harm. There would be no sound without silence.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+Nowadays, noise pollution created by humans is increasingly prevalent in most parts of the world. Long enough exposure to loud enough sounds, mostly technical noise, and particular frequencies can cause various kinds of mental, sleep, cardio-vascular and other illneses. Living in a world of pervasive technical noise requires a better attention to our sound hygiene to preserve our health and well-being.
 
-Text here...
+Within my final project, I aim to show how exactly particular levels and kinds of sound (noise) may affect humans' wellbeing, and how we're all exposed to that kind of sounds much more often than we think we are. My intent is to encourage the audience use simple sound hygienen tips I will cover in my project as well.
+
+**Story structure**
+
+1. Quick "fun facts" about our perception of sounds and their physical haracteristics (dB level / frequences) --> 
+2. How those characteristics affects our body, illustrating where the hurting levels are and comparing them to familiar sonic experiences
+3. Healthcare data on hearing loss for different occupations + age when hearing problems start (connected to the previous points through the noise levels)
+4. (something positive) Data on the effectiveness of noise cancelling devices and/or exposure to natural sound (there's good noise out there!)
+5. Tips on sound hygiene to avoid adverse sonic effects and reinforce positive ones
+
+**One sentence summary:** We should pay more attention to our sound hygiene as it is directly afecting our erllbeing.
+
+**User story**
+
+**As a modern-age human / big-city resident, I want** to know how my soundscape affects me and how I can manage it better, **so I can** enhance my wellbeing.
+
+**I can do this by** developing healthy sound hygiene habits: reducing my exposure to adverse noise and increasing my exposure to restorative sounds.
+
+**Story Arc**
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
