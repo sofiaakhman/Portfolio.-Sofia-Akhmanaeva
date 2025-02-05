@@ -45,26 +45,26 @@ Chart 2: We lose our hearing faster than our grand parents
 
 # The data
 
-Main data I'm going to use is from IPUMS Health surveys that contains  reach number of hearing related data and spans back to 1950s and till 2018. (https://nhis.ipums.org/nhis/sda.shtml )
-For graphs above I used the International Noise Awareness Day website: https://noiseawareness.org/info-center/common-noise-levels/ 
+Main data I'm going to use is from IPUMS Health surveys that contains  reach number of hearing related data and spans back to 1950s and till 2018. (https://nhis.ipums.org/nhis/sda.shtml ). I'm in process of figuring out how to extract it properly, but I alreeady defined a group of variables that I will work with. Line charts above use real variables that are present in the IPUMS record.
 
-I will also inform further work with the articles indicated below
+For bar charts above I used the International Noise Awareness Day website: https://noiseawareness.org/info-center/common-noise-levels/ 
+
+I will also inform further work with the articles indicated below. I just reviewed most of them to help with brainstorming process and building the narrative. I will dive deeper into defining more precise connections between data pieces. Most of them are on (a) urban noise effect on wellbeing, (b) sound's impact on particular aspects of health (i.e. cardio-vascular deseases and stress levels) etc.
 
 ![Bibliography](bibliography.jpg)
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+- I will confirm the data source within the next 1.5 weeks, and will also find the plan B narrative that's easily adjustable, in the case IPUMS will not work out and I will not find an alternative dataset.
+- After confirming the data source and the narrative, I will draft the list of relationship / cause-effect linkages I want to show and what ideas I want to illustrate with them.
+- Then I will define the best type o graphs for those illustration
+- And finally will polish my storytelling with definining how to present infographics so there is dynamic and clearly stated message.
+
 
 ## References
-_List any references you used here._
+
+(see The Data section)
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
