@@ -28,7 +28,7 @@ Within my final project, I aim to show how exactly particular levels and kinds o
 
 ## Story Arc
 
-![Story Arc](Part 1. Story Arc.png)
+![Story Arc](story-arc.jpg)
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
