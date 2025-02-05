@@ -44,11 +44,13 @@ Chart 2: We lose our hearing faster than our grand parents
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+Main data I'm going to use is from IPUMS Health surveys that contains  reach number of hearing related data and spans back to 1950s and till 2018. (https://nhis.ipums.org/nhis/sda.shtml )
+For graphs above I used the International Noise Awareness Day website: https://noiseawareness.org/info-center/common-noise-levels/ 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+I will also inform further work with the articles indicated below
+
+![Bibliography](bibliography.jpg)
 
 | Name | URL | Description |
 |------|-----|-------------|
