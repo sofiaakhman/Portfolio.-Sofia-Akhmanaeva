@@ -40,7 +40,7 @@ Chart 1: Certain ocupation leads to early hearing loss
 
 Chart 2: We lose our hearing faster than our grand parents
 
-![Hearing loss stats](hearing-loss.jpg)
+![Hearing loss stats](hearing-loss.jpeg)
 
 
 # The data
