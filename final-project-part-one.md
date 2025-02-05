@@ -10,7 +10,7 @@ Nowadays, noise pollution created by humans is increasingly prevalent in most pa
 
 Within my final project, I aim to show how exactly particular levels and kinds of sound (noise) may affect humans' wellbeing, and how we're all exposed to that kind of sounds much more often than we think we are. My intent is to encourage the audience use simple sound hygienen tips I will cover in my project as well.
 
-**Story structure**
+## Story structure
 
 1. Quick "fun facts" about our perception of sounds and their physical haracteristics (dB level / frequences) --> 
 2. How those characteristics affects our body, illustrating where the hurting levels are and comparing them to familiar sonic experiences
@@ -20,14 +20,15 @@ Within my final project, I aim to show how exactly particular levels and kinds o
 
 **One sentence summary:** We should pay more attention to our sound hygiene as it is directly afecting our erllbeing.
 
-**User story**
+## User story
 
 **As a modern-age human / big-city resident, I want** to know how my soundscape affects me and how I can manage it better, **so I can** enhance my wellbeing.
 
 **I can do this by** developing healthy sound hygiene habits: reducing my exposure to adverse noise and increasing my exposure to restorative sounds.
 
-**Story Arc**
+## Story Arc
 
+![Story Arc](Part 1. Story Arc.png)
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
