@@ -26,7 +26,7 @@ The authors’ notes about the various possible metrics of success are promising
 - At the same time, the chart is most probably truthful and, in a way, engaging – it’s entertaining to try to find a decent combination of metrics, and some of them can be insightful if you take a closer look.
 
 ## Step three: Sketch a solution
-[image](sletch2-2.jpg)
+![Sketch](sketch2-2.jpg)
 
 ## Step four: Test the solution
 
