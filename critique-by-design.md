@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Critique by Design Exercise
+# Case: "Which is The Best Performing Marvel Movie?" Chart
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
 
@@ -27,12 +27,16 @@ The authors’ notes about the various possible metrics of success are promising
 
 ## Step three: Sketch a solution
 
+Target audience: I was keeping in mind film industry professionals – eaither the producing/managin team of Marvel franchise, or screen-play writers who work for Marvel francise or other similar film and want to study the performance patterns to further deeper analyse the movie properties that might lead to commercial success.
+
 ### Most of Marvel Movies Break Even. Som of Them Make Good Profit
 ![Sketch](sketch2-2.jpeg)
 
 For the initial sketch I decided to leave the default metrics from the original vizualisation – % of Budget Recovered for each film in francises and Year.
 
-I changed the x-akis so it reflects the break-even point – 200%. It's higher than 100% because the movie budget doesn't include the markrting budget, so usually to break-even considering promotion ependitures a movie should earn at least twice as much as it's production budget. Putting the break-even point as x-axis will help to grasp immediately which movies generated profit and which didn't.
+I changed the x-axis so it reflects the break-even point – 200%. It's higher than 100% because the movie budget doesn't include the markrting budget, so usually to break-even considering promotion ependitures a movie should earn at least twice as much as it's production budget. Putting the break-even point as x-axis will help to grasp immediately which movies generated profit and which didn't.
+
+I also sketched bar charts to showcase levels and though of popsicles as an alternative option to make the chart less crowded (basically same scatterplot points, but grounded to the axis which might maeke it easier to track the overal picture)
 
 I decided to leave year because thought that it might be interesting to see what movies perform better and when and compare it to the outter context from particular time (assuming that the audiemce is professional and familiar with such context)
 
@@ -44,8 +48,6 @@ Questions to ask (modify these for your own interviews):
 
 - Can you tell me what you think this is?
 
-- Can you describe to me what this is telling you?
-
 - Is there anything you find surprising or confusing?
 
 - Who do you think is the intended audience for this?
@@ -54,15 +56,23 @@ Questions to ask (modify these for your own interviews):
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+I had an interview with two MEIM studndt who I'll refer to as MEIM 1 and MEIM 2
+
+**1. How do you think what this chart explains?**
+Both got that it's about movies and their profitability, but asked why break-even was at 200% and not 100%. MEIM 1 suggestedt to clarigy the title to make it clear.
+
+**2. Doesn anything confuse you on this chart?** _(this question also implies the question "What would you do differently" because we just switch to a conversation with them giving feedback and ,e reacting and asking clarifying questions back)_
+MEIM 1: Does the same color refer to the same movie? Why is it in two different years then? 
+(I explained that colors refer to francises and the name of a particular film would go into pop-up window)
+MEIM 1: I also don't really understand why do you need the year here. And how many films is this gonna be? It will be to crowded probably when you add all of them (I agreed but said the the year is needed).
+MEIM 2: The year thng confuses me too. Can you put the in rows?
+MEIM 1: Or leave years in columns but separate franhises by rows?
+
+After several iterations within that part of the conversation this is what the option that a sketched (rows are movies and color was supposed to be gradient between opposite hues showing if the movie broke-even or not)
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
 
+   
 Synthesis: 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
