@@ -22,11 +22,19 @@ The authors’ notes about the various possible metrics of success are promising
 - This visualization is **"over-complete"** – it’s too much information, so it becomes unclear what context to consider (average/breakeven lines are helpful as benchmarks but not ideal – see the comment on them below).
 - The chart is not **intuitive**, even though it’s simple, because the justification to put some metrics into the x-axis and others into the y-axis is unclear. The intersection of the axes is not intuitive either: it’s supposed to refer either to 0 or some point of convergence, but none of the combinations follow this rule. The order of number of on the axes is also counterintuitive in relation to the logic of the metrics (e.g. 1st & 2nd weekend drop off is going down to the lowest negative %, but the negativity is already reflected in the name of the metric, so you expect the drop-off number to rise on the chart as something bad that escalates).
 - The additional average / breakeven lines are also confusing being below the x axis (that's intuitively assoicated with 0).
-- The chart is still somehow **useful**, though, if you’re ready to dig deeper and find meaning in some of the metrics’ combinations and/or if you’re from the industry and know from experience which connections make sense. But even then, it will take some serious mental effort to interpret the chart, so the **perceptibility** is not great either.
+- The chart is still somehow **useful**, though, if you’re ready to dig deeper and find meaning in some of the metrics’ combinations and/or if you’re from the industry and know from experience which connections make sense. I assume this chart's intended audience mighty be either someone who's seriously interested in the film industry and that business, or people who work in this sphere. However, even if you'er redy to poke around, it will take some serious mental effort to interpret the chart, so the **perceptibility** is not great either.
 - At the same time, the chart is most probably truthful and, in a way, engaging – it’s entertaining to try to find a decent combination of metrics, and some of them can be insightful if you take a closer look.
 
 ## Step three: Sketch a solution
+
+### Most of Marvel Movies Break Even. Som of Them Make Good Profit
 ![Sketch](sketch2-2.jpeg)
+
+For the initial sketch I decided to leave the default metrics from the original vizualisation – % of Budget Recovered for each film in francises and Year.
+
+I changed the x-akis so it reflects the break-even point – 200%. It's higher than 100% because the movie budget doesn't include the markrting budget, so usually to break-even considering promotion ependitures a movie should earn at least twice as much as it's production budget. Putting the break-even point as x-axis will help to grasp immediately which movies generated profit and which didn't.
+
+I decided to leave year because thought that it might be interesting to see what movies perform better and when and compare it to the outter context from particular time (assuming that the audiemce is professional and familiar with such context)
 
 ## Step four: Test the solution
 
