@@ -30,7 +30,8 @@ The authors’ notes about the various possible metrics of success are promising
 Target audience: I was keeping in mind film industry professionals – eaither the producing/managin team of Marvel franchise, or screen-play writers who work for Marvel francise or other similar film and want to study the performance patterns to further deeper analyse the movie properties that might lead to commercial success.
 
 ### Most of Marvel Movies Break Even. Som of Them Make Good Profit
-![Sketch](sketch2-2.jpeg)
+
+![Sketch 1](sketch2-2.jpeg)
 
 For the initial sketch I decided to leave the default metrics from the original vizualisation – % of Budget Recovered for each film in francises and Year.
 
@@ -42,46 +43,40 @@ I decided to leave year because thought that it might be interesting to see what
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
 I had an interview with two MEIM studndt who I'll refer to as MEIM 1 and MEIM 2
 
 **1. How do you think what this chart explains?**
-Both got that it's about movies and their profitability, but asked why break-even was at 200% and not 100%. MEIM 1 suggestedt to clarigy the title to make it clear.
+Both got that it's about movies and their profitability, but asked why break-even was at 200% and not 100%. MEIM 1 suggestedt to clarify the title to make it clear but both liked the idea of setting the axis as a breakeve level.
 
-**2. Doesn anything confuse you on this chart?** _(this question also implies the question "What would you do differently" because we just switch to a conversation with them giving feedback and ,e reacting and asking clarifying questions back)_
+**2. Does anything confuse you on this chart?** _(this question also implies the question "What would you do differently" because we just switch to a conversation with them giving feedback and ,e reacting and asking clarifying questions back)_
+
 MEIM 1: Does the same color refer to the same movie? Why is it in two different years then? 
 (I explained that colors refer to francises and the name of a particular film would go into pop-up window)
+
 MEIM 1: I also don't really understand why do you need the year here. And how many films is this gonna be? It will be to crowded probably when you add all of them (I agreed but said the the year is needed).
-MEIM 2: The year thng confuses me too. Can you put the in rows?
-MEIM 1: Or leave years in columns but separate franhises by rows?
+
+MEIM 2: The year thng confuses me too. Can you put the in rows, as a y-axis maybe?
+
+MEIM 1: Or leave years in columns but separate franhises by rows? Also, It's not clear if you compare francises between each other or movies withi francises. Right now it's all together, I think you should pick.
 
 After several iterations within that part of the conversation this is what the option that a sketched (rows are movies and color was supposed to be gradient between opposite hues showing if the movie broke-even or not)
 
+![Sketch 2](sketch2-3.jpeg)
 
+**3. What audience it could be for?**
 
+MEIM 2: Students like us who study film? Or professionals from the industry, maybe those who invest in Marvel movies
    
-Synthesis: 
+### Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
-
+- I drafted a sketch, a vizualization structure that should be more easily digestable and better structured than what I sketched initially
+- Thanks to the conversation I started thinking how to get read of the year variable as a key one or if it's significant in such for, at all
+- I agreed with the comment on that it's better to figure out what comparison I want to showcase: between different frincises by some KPI or between films in the same francise over the years. I also started thinking how I can effectively show both.
+- I decided to show % of budget recovered as a colour, instead of asigning colors to each movie / francise, and indicate movies in the rows instead.
+  
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
-For the final version, I decided to concentrate on one of the relantionship examining wihch would potentially allow to dig deeper in the further research, since the data is not sufficient tom make any reliable inference. I focused on the relantionship between Opening Weekend Revenue and the % of Budget Recovered, hypothesising that the film that did well within the first show would gain momentum and would be more likely to break even faster and gan more profit. 
+For the final version, I decided not to use the version we discussed within interviews because I relased showing timeline doesn't really make sense in this case. I decided to concentrate on one of the relantionship examining wihch would potentially allow to dig deeper in the further research, since the data is not sufficient tom make any reliable inference. I focused on the relantionship between Opening Weekend Revenue and the % of Budget Recovered, hypothesising that the film that did well within the first show would gain momentum and would be more likely to break even faster and gan more profit. 
 
 <div class='tableauPlaceholder' id='viz1739410170752' style='position: relative'><noscript><a href='#'><img alt='Does Opening Weekend Results Define the Marvel Movies&#39; Profitability?Source: https:&#47;&#47;informationisbeautiful.net&#47;visualizations&#47;which-is-the-best-performing-marvel-movie&#47; ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MarvelMociesSuccess&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MarvelMociesSuccess&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MarvelMociesSuccess&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -92,10 +87,3 @@ For the final version, I decided to concentrate on one of the relantionship exam
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                   
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
