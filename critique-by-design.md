@@ -9,12 +9,24 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+I chose the dataviz on the marvel movies' success: https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/ 
+
+It's the topic closest to my major and I liked the original visualisation (aesthetically and only in the beginning, ha-ha)
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+The chart looks nice, **aesthetically** pleasing, engaging and exciting **_in the beginning_**, but once you actually start trying to make sense out of it, it’s terrible(ish). 
+
+The authors’ notes about the various possible metrics of success are promising and create an illusion that you'll be explained how to use the vizualization, but in the end those notes are not practically helpful and also cover only a tiny bit of all the variety of data represented by the viz. Authors just throw you into this data pool without explaining how to swim in it. So, I’d say: 
+
+- This visualization is **"over-complete"** – it’s too much information, so it becomes unclear what context to consider (average/breakeven lines are helpful as benchmarks but not ideal – see the comment on them below).
+- The chart is not **intuitive**, even though it’s simple, because the justification to put some metrics into the x-axis and others into the y-axis is unclear. The intersection of the axes is not intuitive either: it’s supposed to refer either to 0 or some point of convergence, but none of the combinations follow this rule. The order of number of on the axes is also counterintuitive in relation to the logic of the metrics (e.g. 1st & 2nd weekend drop off is going down to the lowest negative %, but the negativity is already reflected in the name of the metric, so you expect the drop-off number to rise on the chart as something bad that escalates).
+- The additional average / breakeven lines are also confusing being below the x axis (that's intuitively assoicated with 0).
+- The chart is still somehow **useful**, though, if you’re ready to dig deeper and find meaning in some of the metrics’ combinations and/or if you’re from the industry and know from experience which connections make sense. But even then, it will take some serious mental effort to interpret the chart, so the **perceptibility** is not great either.
+- At the same time, the chart is most probably truthful and, in a way, engaging – it’s entertaining to try to find a decent combination of metrics, and some of them can be insightful if you take a closer look.
 
 ## Step three: Sketch a solution
+[image](sletch2-2.jpg)
 
 ## Step four: Test the solution
 
