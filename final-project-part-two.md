@@ -3,10 +3,29 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-## Hook
-A brief success story exampleof a musician who got fampus thanks to social media
+# The Story
 
-## Why taking social media seriously and approaching strategically (as a tool for a musician)
+I changed the topic to why and how DIY artists shoudl reapproach social media strategically. It was pretty challenging to find the data in this case too because it's either not there (apparently music marketing is a very niche sphere data-wise) or behind a paywall, or contained in (incosistent) pdf report.
+
+For this reason, the main work within critique sessions (iterviews) and in general was in twiking the scope to find the narrative that makes sense both by itself ad considering the data available.
+
+***
+
+The new story consists from 2 major parts:
+
+1. **WHYs**. Music on social media / social media in general consumption trends: yes, (pretty much) everyone in the music industry does social media just because. But what the trends are exactly?
+2. **HOWs**. Creators trends that will help giude a musician's content strategy: what music is popular, what formats are more engaging etc.
+
+***
+
+# Storyboard
+
+(I outlined it in shorthand too, but it's very ugly yet: ... )
+
+## Hook
+A brief success story example of a musician who got fampus thanks to social media
+
+## **PART 1**. Why taking social media seriously and approaching strategically (as a tool for a musician)
 
 ### Socials are main new music discovery channel
 
@@ -77,28 +96,30 @@ Text here!
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
-
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+|  To figure out the new story, understand what sory line to use    | Does this story make sense to you?|
+|     Figure out if the story is coherent and doesn't have "holes" | What information piece would you love to have to understand ht emessage better?|
+|If the visualisations are clear      | Tell me what is this graph about? / Can you easily read the graph?|
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
+Does this story make sense to you?
+- Interview 1 (MSPPM student)
+- Interview 2 (MAM student)
+- Interview 3 (former major music label manager):
+What information piece would you love to have to understand ht emessage better?
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+- Interview 1 (MSPPM student)
+- Interview 2 (MAM student)
+- Interview 3 (former major music label manager): Would be nice to have some more data for the 1st part. Like an example in the beginning but numbers. E.g. How many recording label deals are coming from tiktok each year etc.
 
+Tell me what is this graph about? / Can you easily read the graph?
+- Interview 1 (MSPPM student)
+- Interview 2 (MAM student)
+- Interview 3 (former major music label manager):
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
