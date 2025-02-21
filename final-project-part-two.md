@@ -85,6 +85,13 @@ A brief success story example of a musician who got fampus thanks to social medi
 
 ***
 
+## Viz to add:
+
+- most popular short video formats
+- genres popularity ranking
+- demographics for different social media / genre
+
+
 # User research 
 
 ## Target audience
