@@ -19,7 +19,7 @@ The new story consists from 2 major parts:
 
 # Storyboard
 
-(I outlined it in shorthand too, but it's very ugly yet: ... )
+(I outlined it in shorthand too, but it's very ugly yet: [...](https://preview.shorthand.com/IjbGuJIZlliiQNYe) )
 
 ## Hook
 A brief success story example of a musician who got fampus thanks to social media
