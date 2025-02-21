@@ -91,6 +91,7 @@ A brief success story example of a musician who got fampus thanks to social medi
 - genres popularity ranking
 - demographics for different social media / genre
 
++ I'll conclude with the short summary of recommendations.
 
 # User research 
 
