@@ -123,13 +123,12 @@ On shorthand, I also added more industry sources following a MAM interviewee adv
 
 
 ## References
-See Shorthand. No other references were added for this version.
+See the Shorthand page. No other references were added for this version.
 
 ## AI acknowledgements
-I used an AI image geberator embeded into Canva to generate personas' portrait.
+I used an AI image generator embeded into Canva to generate personas' portrait.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
 - Finding relevant data was a great struggle, I guess the best idea within the course would be to see what topic has a decent variety of data first, rather than just choose a preferable topic and stick to it. I guess it should take a separate time and attention to (a) develop several topics / stories options with ideas for each about what exact data is needed to transmit each message, and (b) to test all these ideas by checking if the needed data actually exist and it's in a proper condition.
 - To my surprise, Tableau turned out to be easier than I expected. I know that we didn't really covered all its functionalities, but I felt excited about having this tool in my portifolio.
