@@ -8,7 +8,9 @@ Shorthand sotry link: https://carnegiemellon.shorthandstories.com/socials-remix/
 1. I built up both parts of the of the story on Shorthand – why's and how's - and accomponied it with meaningful comments on both music related data and social media trends context in general as some of my critique interviewee advised. I also added a success story in the beginning as hook, which also came from one of the interview discussions between Part II and III with another MAM student.
 2. I added the data that I planned to add after Part II: most popular short video formats (I found the data fo TikTok), genres popularity ranking among different ages, and social media channels popularity by age. All the charts will be embedded below with more detailed comments on the changes made for some of them, including design decisions.
 3. I added the "helpful industry sources" section on shorthand that the target audience could use to explore the topic more and get more tips on the recommendations given in my guide. I also had to tweek every chart's dimensions, size and font size to make it readable on Shorthand. Charts' titles were edited too, to serve the narrative better.
-4. I unified the colour palette, usig the same 4 colours for all the visualisations. Magenta and cyan(ish) shades were for the highlighted parts of the infographic or equl parts of it, lavender and light-blue – for the parts that had to be "grayed" out but still distinguishable.
+4. I unified the colour palette, usig the same 4 colours for all the visualisations. Magenta and cyan(ish) shades were for the highlighted parts of the infographic or equal parts of it, lavender and light-blue – for the parts that had to be "grayed" out but still distinguishable.
+
+![palette](palette.jpg)
 
 ## Charts & Comments
 
