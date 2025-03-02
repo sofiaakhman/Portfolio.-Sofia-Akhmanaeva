@@ -108,19 +108,31 @@ I changed the colours and the order so the charts with stronger correlation go f
 ***
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+
+The guide built up on Shorthand is aimed at DYI developing musicians who are eaither new to social media or find themselves in a deadlock with managing their socials for success. They either don't know how to start or discouraged by unsuccessful atempts. These artists want more systemic view on how to manage their social media, what channels to prioritize and how to connect with their audience, as well as some reccommendations on sources to learn more. 
+This story could be a short introductory guide for these artist to start creating content strategically, based on the understanding of their positioning and of their potential audience characteristics.
+
+The core audience description did not change mushc since Part II. For more clearity I created two customer personas that represent the terget audience.
+On shorthand, I also added more industry sources following a MAM interviewee advice as it might be highly relevant for the target audience.
+
+### Persona 1
+![persona-1](persona-1.jpg)
+
+### Persona 2
+![persona-2](persona-2.jpg)
+
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+See Shorthand. No other references were added for this version.
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+I used an AI image geberator embeded into Canva to generate personas' portrait.
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
-
+- Finding relevant data was a great struggle, I guess the best idea within the course would be to see what topic has a decent variety of data first, rather than just choose a preferable topic and stick to it. I guess it should take a separate time and attention to (a) develop several topics / stories options with ideas for each about what exact data is needed to transmit each message, and (b) to test all these ideas by checking if the needed data actually exist and it's in a proper condition.
+- To my surprise, Tableau turned out to be easier than I expected. I know that we didn't really covered all its functionalities, but I felt excited about having this tool in my portifolio.
+- Beyond the course, in general, I think I will apply this data-storytelling frame in many situatoins. I also feel like I would do this as a hobbie, for example, when I find some exciting data, ot literally want to tell a story, I can imagine myself building a similar presentation just as an educaional tool or jsut for fun.
+- Datawraper and other tools we used are also exciting, although I didn't get very familiar with them, it would be nice to have more time for all of them.
 
