@@ -102,7 +102,6 @@ This story could be a short introductory guide for these artist to start creatin
 For the interview, I talked to people with different level of knowledge of the topic: MSPPM student who's neither into music business nor entertainment or marketing in general (to see if the story is told simple enough), MAM student who interested in music as a listener and know marketing basics, and a former music industry professional, not from the marketing side but deeply immersed into the context and knows what makes sense or doesn't for the industry. 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -111,7 +110,6 @@ For the interview, I talked to people with different level of knowledge of the t
 |If the visualisations are clear      | Tell me what is this graph about? / Can you easily read the graph?|
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 **Does this story make sense to you?**
 
@@ -136,15 +134,3 @@ For this one, all the interviewee were able to read the graph pretty quick, the 
 | The lack of data that make the story compreensive | I can't really get much of the data that was suggested, but think I have enough and I will try to adjust the narrative itself in the way that will make sense for the "snapshots" backed by data. Kind of tips for the second part rather than report-like style that I was thinking about before that. I will also finish the visualizations for the rest of the data pieces I have|
 |Graphics aesthetics and highlights| I'll unify the colour scheme with the presentation design and will resize graphs when needed to fit the shorthand layout + will get rid of unnecessary elements                                                                                |
 |Story clarity|Charts should speak for themselves, but for shorthand storytelling I'll add some contextual textual data and textual linkages to make the landing more intreractive and engaging|
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
