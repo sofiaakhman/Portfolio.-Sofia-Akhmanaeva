@@ -5,15 +5,10 @@
 
 ### Summary
 
-The data was a scatterplot that could switch to different metrics in both axis. For the frts steps I tried to rethink the default combinatio that included a timeline. I improved the sketch during the interviews, but eventually rejected the initial compbination of data cause found, in my opnion, more meaningful relationship to illustrate.
+The task is to redesign the following infograpgic: https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/ 
+The original version is a scatterplot that can switch to different metrics in both axis. For the first steps I tried to rethink the default combination that included a timeline. I improved the sketch during the critique interviews with classmates, but eventually rejected the initial compbination of data cause I found more meaningful, in my opnion, relationship to illustrate.
 
-## Step one: the visualization
-
-I chose the dataviz on the marvel movies' success: https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/ 
-
-It's the topic closest to my major and I liked the original visualisation (aesthetically and only in the beginning, ha-ha)
-
-## Step two: the critique
+## The critique
 
 The chart looks nice, **aesthetically** pleasing, engaging and exciting **_in the beginning_**, but once you actually start trying to make sense out of it, it’s terrible(ish). 
 
@@ -25,11 +20,11 @@ The authors’ notes about the various possible metrics of success are promising
 - The chart is still somehow **useful**, though, if you’re ready to dig deeper and find meaning in some of the metrics’ combinations and/or if you’re from the industry and know from experience which connections make sense. I assume this chart's intended audience mighty be either someone who's seriously interested in the film industry and that business, or people who work in this sphere. However, even if you'er redy to poke around, it will take some serious mental effort to interpret the chart, so the **perceptibility** is not great either.
 - At the same time, the chart is most probably truthful and, in a way, engaging – it’s entertaining to try to find a decent combination of metrics, and some of them can be insightful if you take a closer look.
 
-## Step three: Sketch a solution
+## Sketch a solution
 
 Target audience: I was keeping in mind film industry professionals – eaither the producing/managin team of Marvel franchise, or screen-play writers who work for Marvel francise or other similar film and want to study the performance patterns to further deeper analyse the movie properties that might lead to commercial success.
 
-### Most of Marvel Movies Break Even. Som of Them Make Good Profit
+### Most of Marvel Movies Break Even. Some of Them Make Good Profit
 
 ![Sketch 1](sketch2-2.jpeg)
 
@@ -41,7 +36,7 @@ I also sketched bar charts to showcase levels and though of popsicles as an alte
 
 I decided to leave year because thought that it might be interesting to see what movies perform better and when and compare it to the outter context from particular time (assuming that the audiemce is professional and familiar with such context)
 
-## Step four: Test the solution
+## Test the solution
 
 I had an interview with two MEIM studndt who I'll refer to as MEIM 1 and MEIM 2
 
@@ -67,14 +62,14 @@ After several iterations within that part of the conversation this is what the o
 
 MEIM 2: Students like us who study film? Or professionals from the industry, maybe those who invest in Marvel movies
    
-### Synthesis: 
+### Critique Interview Synthesis: 
 
 - I drafted a sketch, a vizualization structure that should be more easily digestable and better structured than what I sketched initially
 - Thanks to the conversation I started thinking how to get read of the year variable as a key one or if it's significant in such for, at all
 - I agreed with the comment on that it's better to figure out what comparison I want to showcase: between different frincises by some KPI or between films in the same francise over the years. I also started thinking how I can effectively show both.
 - I decided to show % of budget recovered as a colour, instead of asigning colors to each movie / francise, and indicate movies in the rows instead.
   
-## Step five: build the solution
+## Building the solution
 
 For the final version, I decided not to use the version we discussed within interviews because I relased showing timeline doesn't really make sense in this case. I decided to concentrate on one of the relantionship examining wihch would potentially allow to dig deeper in the further research, since the data is not sufficient tom make any reliable inference. I focused on the relantionship between Opening Weekend Revenue and the % of Budget Recovered, hypothesising that the film that did well within the first show would gain momentum and would be more likely to break even faster and gan more profit. 
 
