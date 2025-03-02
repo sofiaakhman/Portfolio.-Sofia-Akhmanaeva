@@ -10,7 +10,7 @@ Shorthand sotry link: https://carnegiemellon.shorthandstories.com/socials-remix/
 3. I added the "helpful industry sources" section on shorthand that the target audience could use to explore the topic more and get more tips on the recommendations given in my guide. I also had to tweek every chart's dimensions, size and font size to make it readable on Shorthand. Charts' titles were edited too, to serve the narrative better.
 4. I unified the colour palette, usig the same 4 colours for all the visualisations. Magenta and cyan(ish) shades were for the highlighted parts of the infographic or equl parts of it, lavender and light-blue – for the parts that had to be "grayed" out but still distinguishable.
 
-# Charts & Comments
+## Charts & Comments
 
 _Disclaimer: the dimensions of the charts might be a bit off on Github because they were made for Shorthand and appear bigger everywhere else.
 _
