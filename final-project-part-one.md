@@ -1,8 +1,5 @@
 | [home page](https://sofiaakhman.github.io/Portfolio.-Sofia-Akhmanaeva/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 Sound is an essential part of the physical world we exist in, and its impact on our lives extends far beyound liking or disliking some sounds aesthetically. Sound can both heal and harm. There would be no sound without silence.
 
