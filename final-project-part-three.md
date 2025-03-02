@@ -14,8 +14,7 @@ Shorthand sotry link: https://carnegiemellon.shorthandstories.com/socials-remix/
 
 ## Charts & Comments
 
-_Disclaimer: the dimensions of the charts might be a bit off on Github because they were made for Shorthand and appear bigger everywhere else.
-_
+_Disclaimer: the dimensions of the charts might be a bit off on Github because they were made for Shorthand and appear bigger everywhere else._
 
 ***
 
